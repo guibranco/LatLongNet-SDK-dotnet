@@ -1,8 +1,8 @@
 using Xunit;
 
-namespace SolutionName.IntegrationTests
+namespace LatLongNet.UnitTests
 {
-    public class IntegrationTest1
+    public class UnitTest1
     {
         [Fact]
         public void Test1()
