@@ -1,4 +1,3 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
@@ -9,9 +8,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{A68EEB0C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LatLongNet", "Src\LatLongNet\LatLongNet.csproj", "{31B5C92F-CD29-4833-8119-F28E3BDCCCFD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LatLongNet.IntegrationTests", "Tests\LatLongNet.IntegrationTests\LatLongNet.IntegrationTests.csproj", "{6B09112A-647D-4CED-87F4-4E1737CE50F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LatLongNet.IntegrationTests", "Tests\LatLongNet.IntegrationTests\LatLongNet.IntegrationTests.csproj", "{1B62E67E-52C6-413E-B6E2-0F8F024C6F19}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LatLongNet.UnitTests", "Tests\LatLongNet.UnitTests\LatLongNet.UnitTests.csproj", "{2F57B9CD-5505-4456-B9FE-F91DCB4476D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LatLongNet.Tests", "Tests\LatLongNet.UnitTests\LatLongNet.Tests.csproj", "{2F57B9CD-5505-4456-B9FE-F91DCB4476D6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7029F144-374E-4943-B530-B3D603991881}"
 	ProjectSection(SolutionItems) = preProject
@@ -31,10 +30,10 @@ Global
 		{31B5C92F-CD29-4833-8119-F28E3BDCCCFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31B5C92F-CD29-4833-8119-F28E3BDCCCFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31B5C92F-CD29-4833-8119-F28E3BDCCCFD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6B09112A-647D-4CED-87F4-4E1737CE50F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6B09112A-647D-4CED-87F4-4E1737CE50F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6B09112A-647D-4CED-87F4-4E1737CE50F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6B09112A-647D-4CED-87F4-4E1737CE50F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B62E67E-52C6-413E-B6E2-0F8F024C6F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B62E67E-52C6-413E-B6E2-0F8F024C6F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B62E67E-52C6-413E-B6E2-0F8F024C6F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B62E67E-52C6-413E-B6E2-0F8F024C6F19}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2F57B9CD-5505-4456-B9FE-F91DCB4476D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2F57B9CD-5505-4456-B9FE-F91DCB4476D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F57B9CD-5505-4456-B9FE-F91DCB4476D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -45,7 +44,7 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{31B5C92F-CD29-4833-8119-F28E3BDCCCFD} = {45AB621C-765B-44BA-AAC7-B7AE600190D1}
-		{6B09112A-647D-4CED-87F4-4E1737CE50F1} = {A68EEB0C-5948-4DD9-9E75-293EE086828B}
+		{1B62E67E-52C6-413E-B6E2-0F8F024C6F19} = {A68EEB0C-5948-4DD9-9E75-293EE086828B}
 		{2F57B9CD-5505-4456-B9FE-F91DCB4476D6} = {A68EEB0C-5948-4DD9-9E75-293EE086828B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution

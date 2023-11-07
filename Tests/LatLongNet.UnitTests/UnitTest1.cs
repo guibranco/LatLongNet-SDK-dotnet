@@ -1,6 +1,6 @@
 using Xunit;
 
-namespace LatLongNet.UnitTests
+namespace LatLongNet.Tests
 {
     public class UnitTest1
     {
