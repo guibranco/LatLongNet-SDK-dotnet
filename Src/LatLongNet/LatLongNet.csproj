@@ -15,7 +15,7 @@
     <PackageProjectUrl>https://guibranco.github.io/LatLongNet-SDK-dotnet</PackageProjectUrl>
     <PackageIcon>logo.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <Description>The LatLong.net SDK for .NET projects</Description>
+    <Description>The LatLong.Net SDK client for .NET projects</Description>
     <RepositoryType>GIT</RepositoryType>
     <RepositoryUrl>https://github.com/guibranco/LatLongNet-SDK-dotnet</RepositoryUrl>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>

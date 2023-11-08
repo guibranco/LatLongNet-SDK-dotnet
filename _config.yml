@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: LatLong.NET SDK Client .NET SDK Client
-description: The LatLong.net SDK for .NET projects
+title: LatLong.Net SDK .NET SDK
+description: A repository template for .NET API client projects
 logo: https://raw.githubusercontent.com/guibranco/LatLongNet-SDK-dotnet/main/logo.png
 show_downloads: true

@@ -1,23 +1,24 @@
+# LatLong.Net SDK SDK .NET
 
-The LatLong.net SDK for .NET projects
+The LatLong.Net SDK client for .NET projects
 
 [![GitHub license](https://img.shields.io/github/license/guibranco/LatLongNet-SDK-dotnet)](https://github.com/guibranco/LatLongNet-SDK-dotnet)
 [![Time tracker](https://wakatime.com/badge/github/guibranco/LatLongNet-SDK-dotnet.svg)](https://wakatime.com/badge/github/guibranco/LatLongNet-SDK-dotnet)
 
-![LatLong.NET SDK Client logo](logo.png)
+![LatLong.Net SDK logo](logo.png)
 
 ## CI/CD
 
-| Build status | Last commit | Tests | Coverage | Code Smells | LoC | 
+| Build status | Last commit | Tests | Coverage | Code Smells | LoC |
 |--------------|-------------|-------|-------|-------|-------|
-| [![Build status](https://ci.appveyor.com/api/projects/status/gajgtkyir3osymm9?svg=true)](https://ci.appveyor.com/project/guibranco/LatLongNet-SDK-dotnet) | [![GitHub last commit](https://img.shields.io/github/last-commit/guibranco/LatLongNet-SDK-dotnet/main)](https://github.com/guibranco/LatLongNet-SDK-dotnet) | [![AppVeyor tests (branch)](https://img.shields.io/appveyor/tests/guibranco/LatLongNet-SDK-dotnet/main?compact_message)](https://ci.appveyor.com/project/guibranco/LatLongNet-SDK-dotnet/branch/main/tests) | [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=guibranco_LatLongNet-SDK-dotnet&metric=coverage&branch=main)](https://sonarcloud.io/dashboard?id=guibranco_LatLongNet-SDK-dotnet) | [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=guibranco_LatLongNet-SDK-dotnet&metric=code_smells&branch=main)](https://sonarcloud.io/dashboard?id=guibranco_LatLongNet-SDK-dotnet) | [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=guibranco_LatLongNet-SDK-dotnet&metric=ncloc&branch=main)](https://sonarcloud.io/dashboard?id=guibranco_LatLongNet-SDK-dotnet) | 
+| [![Build status](https://ci.appveyor.com/api/projects/status/gajgtkyir3osymm9?svg=true)](https://ci.appveyor.com/project/guibranco/LatLongNet-SDK-dotnet) | [![GitHub last commit](https://img.shields.io/github/last-commit/guibranco/LatLongNet-SDK-dotnet/main)](https://github.com/guibranco/LatLongNet-SDK-dotnet) | [![AppVeyor tests (branch)](https://img.shields.io/appveyor/tests/guibranco/LatLongNet-SDK-dotnet/main?compact_message)](https://ci.appveyor.com/project/guibranco/LatLongNet-SDK-dotnet/branch/main/tests) | [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=guibranco_LatLongNet-SDK-dotnet&metric=coverage&branch=main)](https://sonarcloud.io/dashboard?id=guibranco_LatLongNet-SDK-dotnet) | [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=guibranco_LatLongNet-SDK-dotnet&metric=code_smells&branch=main)](https://sonarcloud.io/dashboard?id=guibranco_LatLongNet-SDK-dotnet) | [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=guibranco_LatLongNet-SDK-dotnet&metric=ncloc&branch=main)](https://sonarcloud.io/dashboard?id=guibranco_LatLongNet-SDK-dotnet) |
 
 ## Code Quality (main branch)
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/7c0a9bfd74c24d47b015e4e9785a74fa)](https://www.codacy.com/gh/guibranco/LatLongNet-SDK-dotnet/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gguibranco/LatLongNet-SDK-dotnet&amp;utm_campaign=Badge_Grade)
 [![Codacy Badge](https://app.codacy.com/project/badge/Coverage/7c0a9bfd74c24d47b015e4e9785a74fa)](https://www.codacy.com/gh/guibranco/LatLongNet-SDK-dotnet/dashboard?utm_source=github.com&utm_medium=referral&utm_content=guibranco/LatLongNet-SDK-dotnet&utm_campaign=Badge_Coverage)
 
-[![codecov](https://codecov.io/gh/guibranco/LatLongNet-SDK-dotnet/branch/main/graph/badge.svg)](https://codecov.io/gh/guibranco/LatLongNet-SDK-dotnet)
+[![Codecov](https://codecov.io/gh/guibranco/LatLongNet-SDK-dotnet/branch/main/graph/badge.svg)](https://codecov.io/gh/guibranco/LatLongNet-SDK-dotnet)
 [![CodeFactor](https://www.codefactor.io/repository/github/guibranco/LatLongNet-SDK-dotnet/badge)](https://www.codefactor.io/repository/github/guibranco/LatLongNet-SDK-dotnet)
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/a24886957019038efa02/maintainability)](https://codeclimate.com/github/guibranco/LatLongNet-SDK-dotnet/maintainability)
@@ -35,6 +36,9 @@ The LatLong.net SDK for .NET projects
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=guibranco_LatLongNet-SDK-dotnet&metric=bugs)](https://sonarcloud.io/dashboard?id=guibranco_LatLongNet-SDK-dotnet)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=guibranco_LatLongNet-SDK-dotnet&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=guibranco_LatLongNet-SDK-dotnet)
 
+[![Codebeat badge](https://codebeat.co/badges/43e4f0e1-0796-49a9-aad2-7a310712f870)](https://codebeat.co/projects/github-com-guibranco-LatLongNet-SDK-dotnet-main)
+[![DeepSource](https://app.deepsource.com/gh/guibranco/LatLongNet-SDK-dotnet.svg/?label=active+issues&show_trend=true&token=G4s6g3M58YQcmuFNLVhkT6dC)](https://app.deepsource.com/gh/guibranco/LatLongNet-SDK-dotnet/)
+
 ---
 
 ## Installation
@@ -47,8 +51,8 @@ Download the latest zip file from the [Release](https://github.com/guibranco/Lat
 
 ### Nuget package manager
 
-[![PacakgeName NuGet Version](https://img.shields.io/nuget/v/LatLongNet.svg?style=flat)](https://www.nuget.org/packages/LatLongNet/)
-[![PacakgeName NuGet Downloads](https://img.shields.io/nuget/dt/LatLongNet.svg?style=flat)](https://www.nuget.org/packages/LatLongNet/)
+[![LatLongNet NuGet Version](https://img.shields.io/nuget/v/LatLongNet.svg?style=flat)](https://www.nuget.org/packages/LatLongNet/)
+[![LatLongNet NuGet Downloads](https://img.shields.io/nuget/dt/LatLongNet.svg?style=flat)](https://www.nuget.org/packages/LatLongNet/)
 
 | Package | Version | Downloads |
 |------------------|:-------:|:-------:|
@@ -58,12 +62,12 @@ Download the latest zip file from the [Release](https://github.com/guibranco/Lat
 
 ## Features
 
-Implements all features of LatLong.NET SDK Client API available at [LatLong.NET SDK Client](https://www.latlong.net/)
+Implements all features of LatLong.Net SDK API available at [LatLong.Net SDK](https://latlong.net)
 
--  Feature #1
--  Feature #2
--  Feature #3
--  Feature #N
+- Feature #1
+- Feature #2
+- Feature #3
+- Feature #N
 
 ---
 
@@ -73,8 +77,14 @@ Implements all features of LatLong.NET SDK Client API available at [LatLong.NET 
 
 //sample CSharp code showing how to use the lib
 var client = new LatLongNetClient();
-client.CallSomeMethod();
+var result = await client.GetHelloWorldAsync(CancellationToken.None);
 
 ```
 
 ---
+
+## License
+
+Licensed under
+
+MIT license ([LICENSE](https://github.com/guibranco/LatLongNet-SDK-dotnet/blob/main/LICENSE) or [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT))
