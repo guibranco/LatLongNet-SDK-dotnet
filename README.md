@@ -36,7 +36,7 @@ The LatLong.Net SDK client for .NET projects
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=guibranco_LatLongNet-SDK-dotnet&metric=bugs)](https://sonarcloud.io/dashboard?id=guibranco_LatLongNet-SDK-dotnet)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=guibranco_LatLongNet-SDK-dotnet&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=guibranco_LatLongNet-SDK-dotnet)
 
-[![Codebeat badge](https://codebeat.co/badges/43e4f0e1-0796-49a9-aad2-7a310712f870)](https://codebeat.co/projects/github-com-guibranco-LatLongNet-SDK-dotnet-main)
+[![codebeat badge](https://codebeat.co/badges/43e4f0e1-0796-49a9-aad2-7a310712f870)](https://codebeat.co/projects/github-com-guibranco-latlongnet-sdk-dotnet-main)
 [![DeepSource](https://app.deepsource.com/gh/guibranco/LatLongNet-SDK-dotnet.svg/?label=active+issues&show_trend=true&token=G4s6g3M58YQcmuFNLVhkT6dC)](https://app.deepsource.com/gh/guibranco/LatLongNet-SDK-dotnet/)
 
 ---
