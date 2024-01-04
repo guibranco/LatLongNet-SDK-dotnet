@@ -1,7 +1,8 @@
 repo_name: guibranco/LatLongNet-SDK-dotnet
-report_id: 55778255ec89e6a9ceb482dace818a7b
+report_id: 8826ae3bbb9824c03673f215ea574c57
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T09:37:40+00:00'
+timestamp: '2024-01-04T15:00:43+00:00'
 requested_by: dependabot[bot]
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/guibranco/LatLongNet-SDK-dotnet
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -27,6 +29,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/guibranco/LatLongNet-SDK-dotnet/blob/main/Tests/LatLongNet.IntegrationTests/LatLongNet.IntegrationTests.csproj
   detection_source: Tests/LatLongNet.IntegrationTests/LatLongNet.IntegrationTests.csproj
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-11-19 03:32:43.000000000 Z
@@ -68,6 +71,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/guibranco/LatLongNet-SDK-dotnet/blob/main/Tests/LatLongNet.IntegrationTests/Mocks/hello-world.txt
   detection_source: Tests/LatLongNet.IntegrationTests/Mocks/hello-world.txt
   last_updated_by: Guilherme Branco Stracini
   last_updated_on: 2023-11-08 00:48:46.000000000 Z
@@ -79,6 +83,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/guibranco/LatLongNet-SDK-dotnet
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -88,6 +93,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/guibranco/LatLongNet-SDK-dotnet/blob/main/.github/workflows/linter.yml
   detection_source: ".github/workflows/linter.yml"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-12-05 12:27:54.000000000 Z
@@ -99,6 +105,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/1628/1434934.png
+  detection_source_url: https://github.com/guibranco/LatLongNet-SDK-dotnet/blob/main/Tests/LatLongNet.IntegrationTests/LatLongNet.IntegrationTests.csproj
   detection_source: Tests/LatLongNet.IntegrationTests/LatLongNet.IntegrationTests.csproj
   last_updated_by: Guilherme Branco Stracini
   last_updated_on: 2023-09-04 18:56:37.000000000 Z
@@ -110,6 +117,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/guibranco/LatLongNet-SDK-dotnet/blob/main/Tests/LatLongNet.IntegrationTests/LatLongNet.IntegrationTests.csproj
   detection_source: Tests/LatLongNet.IntegrationTests/LatLongNet.IntegrationTests.csproj
   last_updated_by: Guilherme Branco Stracini
   last_updated_on: 2023-09-04 18:56:37.000000000 Z
@@ -123,6 +131,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Container Tools
   image_url: https://img.stackshare.io/service/9791/IOUXc3V1_400x400.png
+  detection_source_url: https://github.com/guibranco/LatLongNet-SDK-dotnet/blob/main/Tests/LatLongNet.IntegrationTests/LatLongNet.IntegrationTests.csproj
   detection_source: Tests/LatLongNet.IntegrationTests/LatLongNet.IntegrationTests.csproj
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-11-19 03:45:14.000000000 Z
@@ -135,6 +144,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/guibranco/LatLongNet-SDK-dotnet/blob/main/LatLongNet.sln
   detection_source: LatLongNet.sln
   last_updated_by: Guilherme Branco Stracini
   last_updated_on: 2023-11-08 00:48:46.000000000 Z
@@ -159,6 +169,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/guibranco/LatLongNet-SDK-dotnet/blob/main/Tests/LatLongNet.IntegrationTests/Mocks/hello-world.txt
   detection_source: Tests/LatLongNet.IntegrationTests/Mocks/hello-world.txt
   last_updated_by: Guilherme Branco Stracini
   last_updated_on: 2023-11-08 00:48:46.000000000 Z
@@ -171,6 +182,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/guibranco/LatLongNet-SDK-dotnet
   detection_source: Repo Metadata
 - name: FluentAssertions
   description: A very extensive set of extension methods that allow you to more naturally
