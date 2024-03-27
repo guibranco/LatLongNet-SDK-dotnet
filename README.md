@@ -1,6 +1,6 @@
 # LatLong.Net SDK SDK .NET
 
-The LatLong.Net SDK client for .NET projects
+🌐📍 LatLongNet wrapper for .NET projects
 
 [![GitHub license](https://img.shields.io/github/license/guibranco/LatLongNet-SDK-dotnet)](https://github.com/guibranco/LatLongNet-SDK-dotnet)
 [![Time tracker](https://wakatime.com/badge/github/guibranco/LatLongNet-SDK-dotnet.svg)](https://wakatime.com/badge/github/guibranco/LatLongNet-SDK-dotnet)
