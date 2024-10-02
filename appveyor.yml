@@ -8,8 +8,6 @@ environment:
     secure: OUScxVyFNwC+KuTJjzwExOEEOWBKNoDivYC1RZ7PC9e4q1bcOba1UuNnehWLDx2x
   CODECLIMATE_TOKEN:
     secure: yu+vMzLmIqpgj+jWmo1P38HMz+CA4rekk82GTTUMZDX1rmDsPV5kDngmS6TBSy9QKZgxQnpQyygRUFI3TBqgyphz8QuW09BhhF1727IWJ+I=
-  SONAR_TOKEN:
-    secure: z4YX8hLXIHA27oG2WDCLZHigvIEKP+EjZrlvTVRJ9gOZz8z/aUyKbvuvBy40uJnw
 
 dotnet_csproj:
   patch: true
